@@ -21,6 +21,7 @@ body {
     background:rgba(0, 0, 0, 0.6);
     border-radius: 8px;
     display: flex;
+    font-style : san serif;
     justify-content: center;
     color: #FDEBD0;
     font-weight: 700;
